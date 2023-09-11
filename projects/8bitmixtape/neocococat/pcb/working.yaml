@@ -1,0 +1,370 @@
+board: pcb
+bom:
+- Id: '1'
+  Designator: G***
+  Footprint: Neocococat_Front_copper_1
+  Quantity: '1'
+  Designation: LOGO
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: G***
+  Footprint: Neocococat_Back_copper_mirror
+  Quantity: '1'
+  Designation: LOGO
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: G***
+  Footprint: Neocococat_Frontmask
+  Quantity: '1'
+  Designation: LOGO
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '4'
+  Designator: G***
+  Footprint: Neocococat_Backmask
+  Quantity: '1'
+  Designation: LOGO
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '5'
+  Designator: REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**
+  Footprint: Cococat_hole_1x01
+  Quantity: '20'
+  Designation: Hole_1mm
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | G***\
+  \ | Neocococat_Front_copper_1 | 1 | LOGO |  |  | [''] | \n| 2 | G*** | Neocococat_Back_copper_mirror\
+  \ | 1 | LOGO |  |  | [''] | \n| 3 | G*** | Neocococat_Frontmask | 1 | LOGO |  |\
+  \  | [''] | \n| 4 | G*** | Neocococat_Backmask | 1 | LOGO |  |  | [''] | \n| 5 |\
+  \ REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**\
+  \ | Cococat_hole_1x01 | 20 | Hole_1mm |  |  | [''] | \n"
+bom_schematic: []
+bom_schematic_markdown: no data
+counter: 1
+file_kicad_pcb_flat: projects/8bitmixtape_neocococat_pcb/current_version/working/working.kicad_pcb
+file_kicad_sch_flat: projects/8bitmixtape_neocococat_pcb/current_version/working/working.kicad_pcb
+file_repo_bom_tsv_flat: projects/8bitmixtape_neocococat_pcb/current_version/working/bom_src.tsv
+file_sch_flat: projects/8bitmixtape_neocococat_pcb/current_version/working/working.sch
+id: 8bitmixtape_neocococat_pcb
+name: neocococat
+position_bottom: []
+position_bottom_markdown: no data
+position_top:
+- '# Ref': G***
+  Package: Neocococat_Front_copper_1
+  PosX: 88.56
+  PosY: -108.09
+  Rot: 0.0
+  Side: top
+  Val: LOGO
+- '# Ref': G***
+  Package: Neocococat_Back_copper_mirror
+  PosX: 88.56
+  PosY: -108.09
+  Rot: 0.0
+  Side: top
+  Val: LOGO
+- '# Ref': G***
+  Package: Neocococat_Frontmask
+  PosX: 88.56
+  PosY: -108.07
+  Rot: 0.0
+  Side: top
+  Val: LOGO
+- '# Ref': G***
+  Package: Neocococat_Backmask
+  PosX: 88.66
+  PosY: -108.13
+  Rot: 0.0
+  Side: top
+  Val: LOGO
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 83.72
+  PosY: -84.93
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 88.72
+  PosY: -84.93
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 93.72
+  PosY: -84.94
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 99.09
+  PosY: -82.37
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 107.35
+  PosY: -78.76
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 98.78
+  PosY: -88.07
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 97.44
+  PosY: -90.57
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 75.91
+  PosY: -96.53
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 75.92
+  PosY: -100.51
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 66.42
+  PosY: -106.53
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 65.76
+  PosY: -108.99
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 110.66
+  PosY: -107.03
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 111.33
+  PosY: -109.48
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 83.71
+  PosY: -127.07
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 88.72
+  PosY: -127.09
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 93.71
+  PosY: -127.07
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 97.43
+  PosY: -130.14
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 100.39
+  PosY: -128.47
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 87.53
+  PosY: -136.56
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+- '# Ref': REF**
+  Package: Cococat_hole_1x01
+  PosX: 90.07
+  PosY: -136.56
+  Rot: 0.0
+  Side: top
+  Val: Hole_1mm
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| G*** | LOGO | Neocococat_Front_copper_1\
+  \ | 88.56 | -108.09 | 0.0 | top | \n| G*** | LOGO | Neocococat_Back_copper_mirror\
+  \ | 88.56 | -108.09 | 0.0 | top | \n| G*** | LOGO | Neocococat_Frontmask | 88.56\
+  \ | -108.07 | 0.0 | top | \n| G*** | LOGO | Neocococat_Backmask | 88.66 | -108.13\
+  \ | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 83.72 | -84.93 | 0.0\
+  \ | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 88.72 | -84.93 | 0.0 | top\
+  \ | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 93.72 | -84.94 | 0.0 | top | \n|\
+  \ REF** | Hole_1mm | Cococat_hole_1x01 | 99.09 | -82.37 | 0.0 | top | \n| REF**\
+  \ | Hole_1mm | Cococat_hole_1x01 | 107.35 | -78.76 | 0.0 | top | \n| REF** | Hole_1mm\
+  \ | Cococat_hole_1x01 | 98.78 | -88.07 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01\
+  \ | 97.44 | -90.57 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 75.91\
+  \ | -96.53 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 75.92 | -100.51\
+  \ | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 66.42 | -106.53 | 0.0\
+  \ | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 65.76 | -108.99 | 0.0 | top\
+  \ | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 110.66 | -107.03 | 0.0 | top | \n\
+  | REF** | Hole_1mm | Cococat_hole_1x01 | 111.33 | -109.48 | 0.0 | top | \n| REF**\
+  \ | Hole_1mm | Cococat_hole_1x01 | 83.71 | -127.07 | 0.0 | top | \n| REF** | Hole_1mm\
+  \ | Cococat_hole_1x01 | 88.72 | -127.09 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01\
+  \ | 93.71 | -127.07 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 97.43\
+  \ | -130.14 | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 100.39 | -128.47\
+  \ | 0.0 | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 87.53 | -136.56 | 0.0\
+  \ | top | \n| REF** | Hole_1mm | Cococat_hole_1x01 | 90.07 | -136.56 | 0.0 | top\
+  \ | \n"
+projects_flat: projects/8bitmixtape_neocococat_pcb/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/8BitMixtape/Neocococat/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/8BitMixtape/Neocococat/assignees{/user}
+  blobs_url: https://api.github.com/repos/8BitMixtape/Neocococat/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/8BitMixtape/Neocococat/branches{/branch}
+  clone_url: https://github.com/8BitMixtape/Neocococat.git
+  collaborators_url: https://api.github.com/repos/8BitMixtape/Neocococat/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/8BitMixtape/Neocococat/comments{/number}
+  commits_url: https://api.github.com/repos/8BitMixtape/Neocococat/commits{/sha}
+  compare_url: https://api.github.com/repos/8BitMixtape/Neocococat/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/8BitMixtape/Neocococat/contents/{+path}
+  contributors_url: https://api.github.com/repos/8BitMixtape/Neocococat/contributors
+  created_at: '2017-06-11T10:05:15Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/8BitMixtape/Neocococat/deployments
+  description: Board modification of 8Bitmixtape NEO synthesizer
+  disabled: false
+  downloads_url: https://api.github.com/repos/8BitMixtape/Neocococat/downloads
+  events_url: https://api.github.com/repos/8BitMixtape/Neocococat/events
+  fork: true
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/8BitMixtape/Neocococat/forks
+  full_name: 8BitMixtape/Neocococat
+  git_commits_url: https://api.github.com/repos/8BitMixtape/Neocococat/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/8BitMixtape/Neocococat/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/8BitMixtape/Neocococat/git/tags{/sha}
+  git_url: git://github.com/8BitMixtape/Neocococat.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: false
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/8BitMixtape/Neocococat/hooks
+  html_url: https://github.com/8BitMixtape/Neocococat
+  id: 93996156
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/8BitMixtape/Neocococat/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/8BitMixtape/Neocococat/issues/events{/number}
+  issues_url: https://api.github.com/repos/8BitMixtape/Neocococat/issues{/number}
+  keys_url: https://api.github.com/repos/8BitMixtape/Neocococat/keys{/key_id}
+  labels_url: https://api.github.com/repos/8BitMixtape/Neocococat/labels{/name}
+  language: KiCad
+  languages_url: https://api.github.com/repos/8BitMixtape/Neocococat/languages
+  license: null
+  merges_url: https://api.github.com/repos/8BitMixtape/Neocococat/merges
+  milestones_url: https://api.github.com/repos/8BitMixtape/Neocococat/milestones{/number}
+  mirror_url: null
+  name: Neocococat
+  node_id: MDEwOlJlcG9zaXRvcnk5Mzk5NjE1Ng==
+  notifications_url: https://api.github.com/repos/8BitMixtape/Neocococat/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
+    events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
+    followers_url: https://api.github.com/users/8BitMixtape/followers
+    following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
+    gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/8BitMixtape
+    id: 8462711
+    login: 8BitMixtape
+    node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
+    organizations_url: https://api.github.com/users/8BitMixtape/orgs
+    received_events_url: https://api.github.com/users/8BitMixtape/received_events
+    repos_url: https://api.github.com/users/8BitMixtape/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
+    type: Organization
+    url: https://api.github.com/users/8BitMixtape
+  private: false
+  pulls_url: https://api.github.com/repos/8BitMixtape/Neocococat/pulls{/number}
+  pushed_at: '2017-07-10T14:54:48Z'
+  releases_url: https://api.github.com/repos/8BitMixtape/Neocococat/releases{/id}
+  size: 6031
+  ssh_url: git@github.com:8BitMixtape/Neocococat.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/8BitMixtape/Neocococat/stargazers
+  statuses_url: https://api.github.com/repos/8BitMixtape/Neocococat/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/8BitMixtape/Neocococat/subscribers
+  subscription_url: https://api.github.com/repos/8BitMixtape/Neocococat/subscription
+  svn_url: https://github.com/8BitMixtape/Neocococat
+  tags_url: https://api.github.com/repos/8BitMixtape/Neocococat/tags
+  teams_url: https://api.github.com/repos/8BitMixtape/Neocococat/teams
+  topics: []
+  trees_url: https://api.github.com/repos/8BitMixtape/Neocococat/git/trees{/sha}
+  updated_at: '2017-06-11T10:05:17Z'
+  url: https://api.github.com/repos/8BitMixtape/Neocococat
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false
+src_file_bom_tsv: Neocococat_BOM.tsv
+src_file_kicad_pcb: PCB.kicad_pcb
+src_file_kicad_pcb_github: https://github.com/8BitMixtape/Neocococat.git/PCB.kicad_pcb
+src_file_repo_kicad_pcb: Kicad/PCB.kicad_pcb
+src_file_repo_sch: Kicad/PCB.sch
+src_file_sch: PCB.sch
+src_file_sch_github: https://github.com/8BitMixtape/Neocococat.git/PCB.sch
+user: 8bitmixtape

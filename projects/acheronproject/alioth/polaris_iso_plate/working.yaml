@@ -1,0 +1,544 @@
+board: polaris_iso_plate
+bom:
+- Id: '1'
+  Designator: REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**
+  Footprint: MX100
+  Quantity: '46'
+  Designation: MX100
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: REF**,REF**
+  Footprint: MX150
+  Quantity: '2'
+  Designation: MX150
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: REF**,REF**
+  Footprint: MX225
+  Quantity: '2'
+  Designation: MX225
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**,REF**\
+  \ | MX100 | 46 | MX100 |  |  | [''] | \n| 2 | REF**,REF** | MX150 | 2 | MX150 |\
+  \  |  | [''] | \n| 3 | REF**,REF** | MX225 | 2 | MX225 |  |  | [''] | \n"
+counter: 1
+file__flat: projects/acheronproject_alioth_alioth/current_version/working/working.
+file_kicad_pcb_flat: projects/acheronproject_alioth_polaris_iso_plate/current_version/working/working.kicad_pcb
+id: acheronproject_alioth_polaris_iso_plate
+name: alioth
+position_bottom: []
+position_bottom_markdown: no data
+position_top:
+- '# Ref': REF**
+  Package: MX100
+  PosX: 96.8567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 249.2567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 101.6192
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 58.7567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 49.2317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 106.3817
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 139.7192
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 163.5317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 92.0943
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 158.7692
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 230.2067
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 234.9692
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 206.3942
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 120.6692
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX150
+  PosX: 25.4192
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX150
+- '# Ref': REF**
+  Package: MX150
+  PosX: 282.5942
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX150
+- '# Ref': REF**
+  Package: MX100
+  PosX: 258.7817
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 177.8192
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 82.5692
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 77.8067
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 196.8692
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 201.6317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 192.1068
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 182.5817
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 211.1567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 125.4317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 63.5192
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 215.9192
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 39.7067
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX225
+  PosX: 275.4505
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX225
+- '# Ref': REF**
+  Package: MX100
+  PosX: 154.0067
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 144.4818
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 53.9943
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX225
+  PosX: 32.563
+  PosY: -102.45
+  Rot: 0.0
+  Side: top
+  Val: MX225
+- '# Ref': REF**
+  Package: MX100
+  PosX: 68.2818
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 73.0442
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 220.6817
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 87.3317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 244.4942
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 134.9567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 168.2943
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 149.2442
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 173.0567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 187.3442
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 225.4442
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 115.9067
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 239.7317
+  PosY: -64.35
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 130.1942
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 111.1442
+  PosY: -83.4
+  Rot: 0.0
+  Side: top
+  Val: MX100
+- '# Ref': REF**
+  Package: MX100
+  PosX: 20.6567
+  PosY: -45.3
+  Rot: 0.0
+  Side: top
+  Val: MX100
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| REF** | MX100 | MX100 | 96.8567 | -45.3\
+  \ | 0.0 | top | \n| REF** | MX100 | MX100 | 249.2567 | -45.3 | 0.0 | top | \n| REF**\
+  \ | MX100 | MX100 | 101.6192 | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 |\
+  \ 58.7567 | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 49.2317 | -64.35 | 0.0\
+  \ | top | \n| REF** | MX100 | MX100 | 106.3817 | -64.35 | 0.0 | top | \n| REF**\
+  \ | MX100 | MX100 | 139.7192 | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 |\
+  \ 163.5317 | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 92.0943 | -83.4 |\
+  \ 0.0 | top | \n| REF** | MX100 | MX100 | 158.7692 | -102.45 | 0.0 | top | \n| REF**\
+  \ | MX100 | MX100 | 230.2067 | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 234.9692\
+  \ | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 | 206.3942 | -83.4 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 120.6692 | -102.45 | 0.0 | top | \n| REF** | MX150\
+  \ | MX150 | 25.4192 | -64.35 | 0.0 | top | \n| REF** | MX150 | MX150 | 282.5942\
+  \ | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 258.7817 | -64.35 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 177.8192 | -102.45 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 82.5692 | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 | 77.8067\
+  \ | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 196.8692 | -102.45 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 201.6317 | -64.35 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 192.1068 | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 182.5817\
+  \ | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 211.1567 | -45.3 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 125.4317 | -64.35 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 63.5192 | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 | 215.9192\
+  \ | -102.45 | 0.0 | top | \n| REF** | MX100 | MX100 | 39.7067 | -45.3 | 0.0 | top\
+  \ | \n| REF** | MX225 | MX225 | 275.4505 | -83.4 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 154.0067 | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 144.4818\
+  \ | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 53.9943 | -83.4 | 0.0 | top\
+  \ | \n| REF** | MX225 | MX225 | 32.563 | -102.45 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 68.2818 | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 73.0442 |\
+  \ -83.4 | 0.0 | top | \n| REF** | MX100 | MX100 | 220.6817 | -64.35 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 87.3317 | -64.35 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 244.4942 | -83.4 | 0.0 | top | \n| REF** | MX100 | MX100 | 134.9567\
+  \ | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 168.2943 | -83.4 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 149.2442 | -83.4 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 173.0567 | -45.3 | 0.0 | top | \n| REF** | MX100 | MX100 | 187.3442\
+  \ | -83.4 | 0.0 | top | \n| REF** | MX100 | MX100 | 225.4442 | -83.4 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 115.9067 | -45.3 | 0.0 | top | \n| REF** | MX100\
+  \ | MX100 | 239.7317 | -64.35 | 0.0 | top | \n| REF** | MX100 | MX100 | 130.1942\
+  \ | -83.4 | 0.0 | top | \n| REF** | MX100 | MX100 | 111.1442 | -83.4 | 0.0 | top\
+  \ | \n| REF** | MX100 | MX100 | 20.6567 | -45.3 | 0.0 | top | \n"
+projects_flat: projects/acheronproject_alioth_polaris_iso_plate/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Alioth/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Alioth/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Alioth/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Alioth/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Alioth.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Alioth/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Alioth/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Alioth/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Alioth/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Alioth/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Alioth/contributors
+  created_at: '2020-06-25T22:48:02Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Alioth/deployments
+  description: Alioth is an ARM-powered replacement PCB for the Polaris keyboard
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Alioth/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Alioth/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/AcheronProject/Alioth/forks
+  full_name: AcheronProject/Alioth
+  git_commits_url: https://api.github.com/repos/AcheronProject/Alioth/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Alioth/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Alioth/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Alioth.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Alioth/hooks
+  html_url: https://github.com/AcheronProject/Alioth
+  id: 275029872
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Alioth/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Alioth/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Alioth/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Alioth/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Alioth/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Alioth/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Alioth/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Alioth/milestones{/number}
+  mirror_url: null
+  name: Alioth
+  node_id: MDEwOlJlcG9zaXRvcnkyNzUwMjk4NzI=
+  notifications_url: https://api.github.com/repos/AcheronProject/Alioth/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Alioth/pulls{/number}
+  pushed_at: '2020-06-25T23:37:47Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Alioth/releases{/id}
+  size: 812
+  ssh_url: git@github.com:AcheronProject/Alioth.git
+  stargazers_count: 3
+  stargazers_url: https://api.github.com/repos/AcheronProject/Alioth/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Alioth/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Alioth/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Alioth/subscription
+  svn_url: https://github.com/AcheronProject/Alioth
+  tags_url: https://api.github.com/repos/AcheronProject/Alioth/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Alioth/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Alioth/git/trees{/sha}
+  updated_at: '2021-03-02T23:22:51Z'
+  url: https://api.github.com/repos/AcheronProject/Alioth
+  visibility: public
+  watchers: 3
+  watchers_count: 3
+  web_commit_signoff_required: false
+src_file_: .kicad_sch
+src_file__github: https://github.com/AcheronProject/Alioth.git/.kicad_sch
+src_file_kicad_pcb: polaris_ansi_plate.kicad_pcb
+src_file_kicad_pcb_github: https://github.com/AcheronProject/Alioth.git/polaris_ansi_plate.kicad_pcb
+src_file_repo_: kicad_files/.kicad_sch
+src_file_repo_kicad_pcb: polaris_plates/polaris_ansi_plate.kicad_pcb
+user: acheronproject

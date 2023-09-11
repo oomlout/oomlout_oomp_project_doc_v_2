@@ -1,0 +1,248 @@
+board: zeus
+bom_schematic:
+- Cmp name: C_Small
+  DNP: ''
+  Description: Unpolarized capacitor, small symbol
+  Footprint: ''
+  Qnty: '1'
+  Ref: C1
+  Value: 100nF/50V
+  Vendor: ''
+- Cmp name: CP_Small-Device
+  DNP: ''
+  Description: ''
+  Footprint: ''
+  Qnty: '1'
+  Ref: C2
+  Value: 100uF/50V
+  Vendor: ''
+- Cmp name: CP_Small-Device
+  DNP: ''
+  Description: ''
+  Footprint: ''
+  Qnty: '1'
+  Ref: C3
+  Value: 3300uF/50V
+  Vendor: ''
+- Cmp name: CP_Small-Device
+  DNP: ''
+  Description: ''
+  Footprint: ''
+  Qnty: '2'
+  Ref: C4, C5
+  Value: 470uF/50V
+  Vendor: ''
+- Cmp name: C_Small
+  DNP: ''
+  Description: Unpolarized capacitor, small symbol
+  Footprint: ''
+  Qnty: '2'
+  Ref: C6, C8
+  Value: 100n/50V
+  Vendor: ''
+- Cmp name: CP_Small-Device
+  DNP: ''
+  Description: ''
+  Footprint: ''
+  Qnty: '1'
+  Ref: C7
+  Value: 1000uF/50V
+  Vendor: ''
+- Cmp name: GBU8M
+  DNP: ''
+  Description: Single-Phase Bridge Rectifier, 700V Vrms, 8.0A If, GBU package
+  Footprint: Diode_THT:Diode_Bridge_Vishay_GBU
+  Qnty: '1'
+  Ref: D1
+  Value: GBU8M
+  Vendor: ''
+- Cmp name: 1N4007
+  DNP: ''
+  Description: 1000V 1A General Purpose Rectifier Diode, DO-41
+  Footprint: Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+  Qnty: '1'
+  Ref: D2
+  Value: 1N4007
+  Vendor: ''
+- Cmp name: Q_PNP_BCE
+  DNP: ''
+  Description: PNP transistor, base/collector/emitter
+  Footprint: Package_TO_SOT_THT:TO-3P-3_Vertical
+  Qnty: '2'
+  Ref: Q1, Q2
+  Value: TIP36
+  Vendor: ''
+- Cmp name: BD139
+  DNP: ''
+  Description: 1.5A Ic, 80V Vce, Low Voltage Transistor, TO-126
+  Footprint: Package_TO_SOT_THT:TO-126-3_Vertical
+  Qnty: '1'
+  Ref: Q3
+  Value: BD139
+  Vendor: ''
+- Cmp name: R_Small
+  DNP: ''
+  Description: Resistor, small symbol
+  Footprint: ''
+  Qnty: '2'
+  Ref: R1, R2
+  Value: 0.1R/1W
+  Vendor: ''
+- Cmp name: R_Small
+  DNP: ''
+  Description: Resistor, small symbol
+  Footprint: ''
+  Qnty: '2'
+  Ref: R3, R4
+  Value: 220R/0.25W
+  Vendor: ''
+- Cmp name: R_Small
+  DNP: ''
+  Description: Resistor, small symbol
+  Footprint: ''
+  Qnty: '3'
+  Ref: R5, R6, R7
+  Value: 10k/0.25W
+  Vendor: ''
+- Cmp name: TL431LP
+  DNP: ''
+  Description: Shunt Regulator, TO-92
+  Footprint: Package_TO_SOT_THT:TO-92_Inline
+  Qnty: '1'
+  Ref: U1
+  Value: TL431LP
+  Vendor: ''
+bom_schematic_markdown: "| Ref | Qnty | Value | Cmp name | Footprint | Description\
+  \ | Vendor | DNP | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| C1 |\
+  \ 1 | 100nF/50V | C_Small |  | Unpolarized capacitor, small symbol |  |  | \n| C2\
+  \ | 1 | 100uF/50V | CP_Small-Device |  |  |  |  | \n| C3 | 1 | 3300uF/50V | CP_Small-Device\
+  \ |  |  |  |  | \n| C4, C5 | 2 | 470uF/50V | CP_Small-Device |  |  |  |  | \n| C6,\
+  \ C8 | 2 | 100n/50V | C_Small |  | Unpolarized capacitor, small symbol |  |  | \n\
+  | C7 | 1 | 1000uF/50V | CP_Small-Device |  |  |  |  | \n| D1 | 1 | GBU8M | GBU8M\
+  \ | Diode_THT:Diode_Bridge_Vishay_GBU | Single-Phase Bridge Rectifier, 700V Vrms,\
+  \ 8.0A If, GBU package |  |  | \n| D2 | 1 | 1N4007 | 1N4007 | Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal\
+  \ | 1000V 1A General Purpose Rectifier Diode, DO-41 |  |  | \n| Q1, Q2 | 2 | TIP36\
+  \ | Q_PNP_BCE | Package_TO_SOT_THT:TO-3P-3_Vertical | PNP transistor, base/collector/emitter\
+  \ |  |  | \n| Q3 | 1 | BD139 | BD139 | Package_TO_SOT_THT:TO-126-3_Vertical | 1.5A\
+  \ Ic, 80V Vce, Low Voltage Transistor, TO-126 |  |  | \n| R1, R2 | 2 | 0.1R/1W |\
+  \ R_Small |  | Resistor, small symbol |  |  | \n| R3, R4 | 2 | 220R/0.25W | R_Small\
+  \ |  | Resistor, small symbol |  |  | \n| R5, R6, R7 | 3 | 10k/0.25W | R_Small |\
+  \  | Resistor, small symbol |  |  | \n| U1 | 1 | TL431LP | TL431LP | Package_TO_SOT_THT:TO-92_Inline\
+  \ | Shunt Regulator, TO-92 |  |  | \n"
+counter: 1
+file_kicad_pcb_flat: projects/acheronproject_zeus_zeus/current_version/working/working.kicad_pcb
+file_kicad_sch_flat: projects/acheronproject_zeus_zeus/current_version/working/working.kicad_pcb
+file_sch_flat: projects/acheronproject_zeus_zeus/current_version/working/working.sch
+id: acheronproject_zeus_zeus
+name: zeus
+projects_flat: projects/acheronproject_zeus_zeus/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/AcheronProject/Zeus/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/AcheronProject/Zeus/assignees{/user}
+  blobs_url: https://api.github.com/repos/AcheronProject/Zeus/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/AcheronProject/Zeus/branches{/branch}
+  clone_url: https://github.com/AcheronProject/Zeus.git
+  collaborators_url: https://api.github.com/repos/AcheronProject/Zeus/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/AcheronProject/Zeus/comments{/number}
+  commits_url: https://api.github.com/repos/AcheronProject/Zeus/commits{/sha}
+  compare_url: https://api.github.com/repos/AcheronProject/Zeus/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/AcheronProject/Zeus/contents/{+path}
+  contributors_url: https://api.github.com/repos/AcheronProject/Zeus/contributors
+  created_at: '2019-06-06T08:59:49Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/AcheronProject/Zeus/deployments
+  description: Official repository of the Zeus power supply
+  disabled: false
+  downloads_url: https://api.github.com/repos/AcheronProject/Zeus/downloads
+  events_url: https://api.github.com/repos/AcheronProject/Zeus/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/AcheronProject/Zeus/forks
+  full_name: AcheronProject/Zeus
+  git_commits_url: https://api.github.com/repos/AcheronProject/Zeus/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/AcheronProject/Zeus/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/AcheronProject/Zeus/git/tags{/sha}
+  git_url: git://github.com/AcheronProject/Zeus.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/AcheronProject/Zeus/hooks
+  html_url: https://github.com/AcheronProject/Zeus
+  id: 190549628
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/AcheronProject/Zeus/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/AcheronProject/Zeus/issues/events{/number}
+  issues_url: https://api.github.com/repos/AcheronProject/Zeus/issues{/number}
+  keys_url: https://api.github.com/repos/AcheronProject/Zeus/keys{/key_id}
+  labels_url: https://api.github.com/repos/AcheronProject/Zeus/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/AcheronProject/Zeus/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/AcheronProject/Zeus/merges
+  milestones_url: https://api.github.com/repos/AcheronProject/Zeus/milestones{/number}
+  mirror_url: null
+  name: Zeus
+  node_id: MDEwOlJlcG9zaXRvcnkxOTA1NDk2Mjg=
+  notifications_url: https://api.github.com/repos/AcheronProject/Zeus/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/63755935?v=4
+    events_url: https://api.github.com/users/AcheronProject/events{/privacy}
+    followers_url: https://api.github.com/users/AcheronProject/followers
+    following_url: https://api.github.com/users/AcheronProject/following{/other_user}
+    gists_url: https://api.github.com/users/AcheronProject/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/AcheronProject
+    id: 63755935
+    login: AcheronProject
+    node_id: MDEyOk9yZ2FuaXphdGlvbjYzNzU1OTM1
+    organizations_url: https://api.github.com/users/AcheronProject/orgs
+    received_events_url: https://api.github.com/users/AcheronProject/received_events
+    repos_url: https://api.github.com/users/AcheronProject/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/AcheronProject/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/AcheronProject/subscriptions
+    type: Organization
+    url: https://api.github.com/users/AcheronProject
+  private: false
+  pulls_url: https://api.github.com/repos/AcheronProject/Zeus/pulls{/number}
+  pushed_at: '2020-05-28T04:54:38Z'
+  releases_url: https://api.github.com/repos/AcheronProject/Zeus/releases{/id}
+  size: 16
+  ssh_url: git@github.com:AcheronProject/Zeus.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/AcheronProject/Zeus/stargazers
+  statuses_url: https://api.github.com/repos/AcheronProject/Zeus/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/AcheronProject/Zeus/subscribers
+  subscription_url: https://api.github.com/repos/AcheronProject/Zeus/subscription
+  svn_url: https://github.com/AcheronProject/Zeus
+  tags_url: https://api.github.com/repos/AcheronProject/Zeus/tags
+  teams_url: https://api.github.com/repos/AcheronProject/Zeus/teams
+  topics: []
+  trees_url: https://api.github.com/repos/AcheronProject/Zeus/git/trees{/sha}
+  updated_at: '2020-05-28T04:54:41Z'
+  url: https://api.github.com/repos/AcheronProject/Zeus
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false
+src_file_kicad_pcb: zeus.kicad_pcb
+src_file_kicad_pcb_github: https://github.com/AcheronProject/Zeus.git/zeus.kicad_pcb
+src_file_repo_kicad_pcb: kicadFiles/zeus.kicad_pcb
+src_file_repo_sch: kicadFiles/zeus.sch
+src_file_sch: zeus.sch
+src_file_sch_github: https://github.com/AcheronProject/Zeus.git/zeus.sch
+user: acheronproject

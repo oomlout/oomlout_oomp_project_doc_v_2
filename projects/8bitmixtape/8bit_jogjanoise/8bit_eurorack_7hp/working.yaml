@@ -1,0 +1,457 @@
+board: 8bit_eurorack_7hp
+bom:
+- Id: '1'
+  Designator: SW2
+  Footprint: SW_PUSH-12mm_3D_new
+  Quantity: '1'
+  Designation: SW_Push
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: board1
+  Footprint: 8Bit_YogyaNoise
+  Quantity: '1'
+  Designation: SVG2SHENZHEN
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: D-PB0,D-PB1
+  Footprint: LED_PLCC_2835_Handsoldering
+  Quantity: '2'
+  Designation: LED
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '4'
+  Designator: Jack1,Jack2,Jack5
+  Footprint: PJ301M-12_dusjagr_3d
+  Quantity: '3'
+  Designation: JACK_2P
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '5'
+  Designator: POT1-MAIN1
+  Footprint: RD901F-ALPHA-3D
+  Quantity: '1'
+  Designation: POT 10K lin
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '6'
+  Designator: U1
+  Footprint: DIP-8_Attiny_with_Socket_3d
+  Quantity: '1'
+  Designation: ATTINY85-20SU
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '7'
+  Designator: C1,C2,C3
+  Footprint: C_1206_3d
+  Quantity: '3'
+  Designation: 100nF
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '8'
+  Designator: C4
+  Footprint: C_1206_3d
+  Quantity: '1'
+  Designation: 10uF
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '9'
+  Designator: R1,R2,R3
+  Footprint: R_1206_3d
+  Quantity: '3'
+  Designation: 22k
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '10'
+  Designator: R8
+  Footprint: R_1206_3d
+  Quantity: '1'
+  Designation: '330'
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '11'
+  Designator: R14
+  Footprint: R_1206_3d
+  Quantity: '1'
+  Designation: 1K
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '12'
+  Designator: J4
+  Footprint: Bat_connector_SMD
+  Quantity: '1'
+  Designation: Con_3-5V
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '13'
+  Designator: logo1
+  Footprint: Coconut_logo
+  Quantity: '1'
+  Designation: COCONUT
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '14'
+  Designator: R99
+  Footprint: R_1206_3d
+  Quantity: '1'
+  Designation: '0'
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '15'
+  Designator: Ref**
+  Footprint: NoiseBomb_logo
+  Quantity: '1'
+  Designation: Val**
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | SW2\
+  \ | SW_PUSH-12mm_3D_new | 1 | SW_Push |  |  | [''] | \n| 2 | board1 | 8Bit_YogyaNoise\
+  \ | 1 | SVG2SHENZHEN |  |  | [''] | \n| 3 | D-PB0,D-PB1 | LED_PLCC_2835_Handsoldering\
+  \ | 2 | LED |  |  | [''] | \n| 4 | Jack1,Jack2,Jack5 | PJ301M-12_dusjagr_3d | 3\
+  \ | JACK_2P |  |  | [''] | \n| 5 | POT1-MAIN1 | RD901F-ALPHA-3D | 1 | POT 10K lin\
+  \ |  |  | [''] | \n| 6 | U1 | DIP-8_Attiny_with_Socket_3d | 1 | ATTINY85-20SU |\
+  \  |  | [''] | \n| 7 | C1,C2,C3 | C_1206_3d | 3 | 100nF |  |  | [''] | \n| 8 | C4\
+  \ | C_1206_3d | 1 | 10uF |  |  | [''] | \n| 9 | R1,R2,R3 | R_1206_3d | 3 | 22k |\
+  \  |  | [''] | \n| 10 | R8 | R_1206_3d | 1 | 330 |  |  | [''] | \n| 11 | R14 | R_1206_3d\
+  \ | 1 | 1K |  |  | [''] | \n| 12 | J4 | Bat_connector_SMD | 1 | Con_3-5V |  |  |\
+  \ [''] | \n| 13 | logo1 | Coconut_logo | 1 | COCONUT |  |  | [''] | \n| 14 | R99\
+  \ | R_1206_3d | 1 | 0 |  |  | [''] | \n| 15 | Ref** | NoiseBomb_logo | 1 | Val**\
+  \ |  |  | [''] | \n"
+counter: 1
+file_kicad_pcb_flat: projects/8bitmixtape_8bit_jogjanoise_8bit_eurorack_7hp/current_version/working/working.kicad_pcb
+file_sch_flat: projects/8bitmixtape_8bit_jogjanoise_8bit_eurorack_7hp/current_version/working/working.sch
+id: 8bitmixtape_8bit_jogjanoise_8bit_eurorack_7hp
+name: 8bit_jogjanoise
+position_bottom:
+- '# Ref': C1
+  Package: C_1206_3d
+  PosX: 74.39
+  PosY: -111.76
+  Rot: 180.0
+  Side: bottom
+  Val: 100nF
+- '# Ref': C2
+  Package: C_1206_3d
+  PosX: 59.69
+  PosY: -106.68
+  Rot: 0.0
+  Side: bottom
+  Val: 100nF
+- '# Ref': C3
+  Package: C_1206_3d
+  PosX: 52.705
+  PosY: -66.675
+  Rot: 0.0
+  Side: bottom
+  Val: 100nF
+- '# Ref': C4
+  Package: C_1206_3d
+  PosX: 51.435
+  PosY: -123.19
+  Rot: 180.0
+  Side: bottom
+  Val: 10uF
+- '# Ref': D-PB1
+  Package: LED_PLCC_2835_Handsoldering
+  PosX: 63.5
+  PosY: -90.17
+  Rot: 90.0
+  Side: bottom
+  Val: LED
+- '# Ref': J4
+  Package: Bat_connector_SMD
+  PosX: 74.295
+  PosY: -124.46
+  Rot: 0.0
+  Side: bottom
+  Val: Con_3-5V
+- '# Ref': R1
+  Package: R_1206_3d
+  PosX: 52.07
+  PosY: -115.57
+  Rot: 90.0
+  Side: bottom
+  Val: 22k
+- '# Ref': R2
+  Package: R_1206_3d
+  PosX: 55.88
+  PosY: -115.57
+  Rot: -90.0
+  Side: bottom
+  Val: 22k
+- '# Ref': R3
+  Package: R_1206_3d
+  PosX: 59.69
+  PosY: -115.57
+  Rot: -90.0
+  Side: bottom
+  Val: 22k
+- '# Ref': R8
+  Package: R_1206_3d
+  PosX: 56.515
+  PosY: -96.52
+  Rot: -90.0
+  Side: bottom
+  Val: '330'
+- '# Ref': R14
+  Package: R_1206_3d
+  PosX: 71.755
+  PosY: -96.52
+  Rot: 90.0
+  Side: bottom
+  Val: 1K
+- '# Ref': R99
+  Package: R_1206_3d
+  PosX: 69.215
+  PosY: -96.52
+  Rot: 90.0
+  Side: bottom
+  Val: '0'
+- '# Ref': Ref**
+  Package: NoiseBomb_logo
+  PosX: 63.5
+  PosY: -80.645
+  Rot: 180.0
+  Side: bottom
+  Val: Val**
+- '# Ref': logo1
+  Package: Coconut_logo
+  PosX: 63.5
+  PosY: -66.675
+  Rot: 180.0
+  Side: bottom
+  Val: COCONUT
+position_bottom_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n\
+  | --- | --- | --- | --- | --- | --- | --- | \n| C1 | 100nF | C_1206_3d | 74.39 |\
+  \ -111.76 | 180.0 | bottom | \n| C2 | 100nF | C_1206_3d | 59.69 | -106.68 | 0.0\
+  \ | bottom | \n| C3 | 100nF | C_1206_3d | 52.705 | -66.675 | 0.0 | bottom | \n|\
+  \ C4 | 10uF | C_1206_3d | 51.435 | -123.19 | 180.0 | bottom | \n| D-PB1 | LED |\
+  \ LED_PLCC_2835_Handsoldering | 63.5 | -90.17 | 90.0 | bottom | \n| J4 | Con_3-5V\
+  \ | Bat_connector_SMD | 74.295 | -124.46 | 0.0 | bottom | \n| R1 | 22k | R_1206_3d\
+  \ | 52.07 | -115.57 | 90.0 | bottom | \n| R2 | 22k | R_1206_3d | 55.88 | -115.57\
+  \ | -90.0 | bottom | \n| R3 | 22k | R_1206_3d | 59.69 | -115.57 | -90.0 | bottom\
+  \ | \n| R8 | 330 | R_1206_3d | 56.515 | -96.52 | -90.0 | bottom | \n| R14 | 1K |\
+  \ R_1206_3d | 71.755 | -96.52 | 90.0 | bottom | \n| R99 | 0 | R_1206_3d | 69.215\
+  \ | -96.52 | 90.0 | bottom | \n| Ref** | Val** | NoiseBomb_logo | 63.5 | -80.645\
+  \ | 180.0 | bottom | \n| logo1 | COCONUT | Coconut_logo | 63.5 | -66.675 | 180.0\
+  \ | bottom | \n"
+position_top:
+- '# Ref': D-PB0
+  Package: LED_PLCC_2835_Handsoldering
+  PosX: 63.5
+  PosY: -90.17
+  Rot: 90.0
+  Side: top
+  Val: LED
+- '# Ref': Jack1
+  Package: PJ301M-12_dusjagr_3d
+  PosX: 74.295
+  PosY: -112.395
+  Rot: 0.0
+  Side: top
+  Val: JACK_2P
+- '# Ref': Jack2
+  Package: PJ301M-12_dusjagr_3d
+  PosX: 74.295
+  PosY: -67.31
+  Rot: 0.0
+  Side: top
+  Val: JACK_2P
+- '# Ref': Jack5
+  Package: PJ301M-12_dusjagr_3d
+  PosX: 52.705
+  PosY: -67.31
+  Rot: 0.0
+  Side: top
+  Val: JACK_2P
+- '# Ref': POT1-MAIN1
+  Package: RD901F-ALPHA-3D
+  PosX: 63.5
+  PosY: -90.17
+  Rot: 0.0
+  Side: top
+  Val: POT_10K_lin
+- '# Ref': SW2
+  Package: SW_PUSH-12mm_3D_new
+  PosX: 63.5
+  PosY: -125.095
+  Rot: 0.0
+  Side: top
+  Val: SW_Push
+- '# Ref': U1
+  Package: DIP-8_Attiny_with_Socket_3d
+  PosX: 54.61
+  PosY: -109.855
+  Rot: 90.0
+  Side: top
+  Val: ATTINY85-20SU
+- '# Ref': board1
+  Package: 8Bit_YogyaNoise
+  PosX: 62.03
+  PosY: -95.885
+  Rot: 0.0
+  Side: top
+  Val: SVG2SHENZHEN
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| D-PB0 | LED | LED_PLCC_2835_Handsoldering\
+  \ | 63.5 | -90.17 | 90.0 | top | \n| Jack1 | JACK_2P | PJ301M-12_dusjagr_3d | 74.295\
+  \ | -112.395 | 0.0 | top | \n| Jack2 | JACK_2P | PJ301M-12_dusjagr_3d | 74.295 |\
+  \ -67.31 | 0.0 | top | \n| Jack5 | JACK_2P | PJ301M-12_dusjagr_3d | 52.705 | -67.31\
+  \ | 0.0 | top | \n| POT1-MAIN1 | POT_10K_lin | RD901F-ALPHA-3D | 63.5 | -90.17 |\
+  \ 0.0 | top | \n| SW2 | SW_Push | SW_PUSH-12mm_3D_new | 63.5 | -125.095 | 0.0 |\
+  \ top | \n| U1 | ATTINY85-20SU | DIP-8_Attiny_with_Socket_3d | 54.61 | -109.855\
+  \ | 90.0 | top | \n| board1 | SVG2SHENZHEN | 8Bit_YogyaNoise | 62.03 | -95.885 |\
+  \ 0.0 | top | \n"
+projects_flat: projects/8bitmixtape_8bit_jogjanoise_8bit_eurorack_7hp/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/assignees{/user}
+  blobs_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/branches{/branch}
+  clone_url: https://github.com/8BitMixtape/8Bit_JogjaNoise.git
+  collaborators_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/comments{/number}
+  commits_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/commits{/sha}
+  compare_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/contents/{+path}
+  contributors_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/contributors
+  created_at: '2019-08-12T05:56:55Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/deployments
+  description: mini version of the 8Bit Mixtape for use in small stompbox aluminium
+    enclosures
+  disabled: false
+  downloads_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/downloads
+  events_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/forks
+  full_name: 8BitMixtape/8Bit_JogjaNoise
+  git_commits_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/git/tags{/sha}
+  git_url: git://github.com/8BitMixtape/8Bit_JogjaNoise.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: null
+  hooks_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/hooks
+  html_url: https://github.com/8BitMixtape/8Bit_JogjaNoise
+  id: 201866643
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/issues/events{/number}
+  issues_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/issues{/number}
+  keys_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/keys{/key_id}
+  labels_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/labels{/name}
+  language: C++
+  languages_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/languages
+  license: null
+  merges_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/merges
+  milestones_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/milestones{/number}
+  mirror_url: null
+  name: 8Bit_JogjaNoise
+  node_id: MDEwOlJlcG9zaXRvcnkyMDE4NjY2NDM=
+  notifications_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/8462711?v=4
+    events_url: https://api.github.com/users/8BitMixtape/events{/privacy}
+    followers_url: https://api.github.com/users/8BitMixtape/followers
+    following_url: https://api.github.com/users/8BitMixtape/following{/other_user}
+    gists_url: https://api.github.com/users/8BitMixtape/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/8BitMixtape
+    id: 8462711
+    login: 8BitMixtape
+    node_id: MDEyOk9yZ2FuaXphdGlvbjg0NjI3MTE=
+    organizations_url: https://api.github.com/users/8BitMixtape/orgs
+    received_events_url: https://api.github.com/users/8BitMixtape/received_events
+    repos_url: https://api.github.com/users/8BitMixtape/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/8BitMixtape/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/8BitMixtape/subscriptions
+    type: Organization
+    url: https://api.github.com/users/8BitMixtape
+  private: false
+  pulls_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/pulls{/number}
+  pushed_at: '2022-10-24T07:36:42Z'
+  releases_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/releases{/id}
+  size: 19092
+  ssh_url: git@github.com:8BitMixtape/8Bit_JogjaNoise.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/stargazers
+  statuses_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/subscribers
+  subscription_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/subscription
+  svn_url: https://github.com/8BitMixtape/8Bit_JogjaNoise
+  tags_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/tags
+  teams_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/teams
+  topics: []
+  trees_url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise/git/trees{/sha}
+  updated_at: '2022-10-24T07:36:49Z'
+  url: https://api.github.com/repos/8BitMixtape/8Bit_JogjaNoise
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false
+src_file_kicad_pcb: 8Bit_EuroRack_7hp.kicad_pcb
+src_file_kicad_pcb_github: https://github.com/8BitMixtape/8Bit_JogjaNoise.git/8Bit_EuroRack_7hp.kicad_pcb
+src_file_repo_kicad_pcb: KiCAD/8Bit_EuroRack_7hp.kicad_pcb
+src_file_sch: 8Bit_EuroRack.sch
+src_file_sch_github: https://github.com/8BitMixtape/8Bit_JogjaNoise.git/8Bit_EuroRack.sch
+user: 8bitmixtape

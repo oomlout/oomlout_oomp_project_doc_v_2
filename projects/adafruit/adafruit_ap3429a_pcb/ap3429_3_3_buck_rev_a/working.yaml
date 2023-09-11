@@ -1,0 +1,193 @@
+board: ap3429_3_3_buck_rev_a
+bom_schematic:
+- Cmp name: CAP_CERAMIC0805-NOOUTLINE
+  DNP: ''
+  Description: ''
+  Footprint: working:0805-NO
+  Qnty: '3'
+  Ref: C1, C2, C3
+  Value: 22uF
+  Vendor: ''
+- Cmp name: FIDUCIAL_1MM
+  DNP: ''
+  Description: ''
+  Footprint: working:FIDUCIAL_1MM
+  Qnty: '1'
+  Ref: FID1
+  Value: FIDUCIAL_1MM
+  Vendor: ''
+- Cmp name: VREG_BUCK_5PIN_AP3429/A
+  DNP: ''
+  Description: ''
+  Footprint: working:SOT23-5
+  Qnty: '1'
+  Ref: IC1
+  Value: VREG_BUCK_5PIN_AP3429/A
+  Vendor: ''
+- Cmp name: HEADER-1X4ROUND
+  DNP: ''
+  Description: ''
+  Footprint: working:1X04_ROUND
+  Qnty: '1'
+  Ref: JP1
+  Value: HEADER-1X4ROUND
+  Vendor: ''
+- Cmp name: INDUCTORNRH2412T
+  DNP: ''
+  Description: ''
+  Footprint: working:INDUCTOR_TAIYOYUDEN_NRH2412T
+  Qnty: '1'
+  Ref: L1
+  Value: SDER041H-2R2MS
+  Vendor: ''
+- Cmp name: RESISTOR_0603_NOOUT
+  DNP: ''
+  Description: ''
+  Footprint: working:0603-NO
+  Qnty: '2'
+  Ref: R1, R3
+  Value: 100K
+  Vendor: ''
+- Cmp name: RESISTOR_0603_NOOUT
+  DNP: ''
+  Description: ''
+  Footprint: working:0603-NO
+  Qnty: '1'
+  Ref: R2
+  Value: 450K
+  Vendor: ''
+- Cmp name: MOUNTINGHOLE2.5
+  DNP: ''
+  Description: ''
+  Footprint: working:MOUNTINGHOLE_2.5_PLATED
+  Qnty: '1'
+  Ref: U$9
+  Value: MOUNTINGHOLE2.5
+  Vendor: ''
+bom_schematic_markdown: "| Ref | Qnty | Value | Cmp name | Footprint | Description\
+  \ | Vendor | DNP | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| C1, C2,\
+  \ C3 | 3 | 22uF | CAP_CERAMIC0805-NOOUTLINE | working:0805-NO |  |  |  | \n| FID1\
+  \ | 1 | FIDUCIAL_1MM | FIDUCIAL_1MM | working:FIDUCIAL_1MM |  |  |  | \n| IC1 |\
+  \ 1 | VREG_BUCK_5PIN_AP3429/A | VREG_BUCK_5PIN_AP3429/A | working:SOT23-5 |  | \
+  \ |  | \n| JP1 | 1 | HEADER-1X4ROUND | HEADER-1X4ROUND | working:1X04_ROUND |  |\
+  \  |  | \n| L1 | 1 | SDER041H-2R2MS | INDUCTORNRH2412T | working:INDUCTOR_TAIYOYUDEN_NRH2412T\
+  \ |  |  |  | \n| R1, R3 | 2 | 100K | RESISTOR_0603_NOOUT | working:0603-NO |  |\
+  \  |  | \n| R2 | 1 | 450K | RESISTOR_0603_NOOUT | working:0603-NO |  |  |  | \n\
+  | U$9 | 1 | MOUNTINGHOLE2.5 | MOUNTINGHOLE2.5 | working:MOUNTINGHOLE_2.5_PLATED\
+  \ |  |  |  | \n"
+counter: 1
+file_brd_flat: projects/adafruit_adafruit_ap3429a_pcb_ap3429_3_3_buck_rev_a/current_version/working/working.brd
+file_sch_flat: projects/adafruit_adafruit_ap3429a_pcb_ap3429_3_3_buck_rev_a/current_version/working/working.sch
+id: adafruit_adafruit_ap3429a_pcb_ap3429_3_3_buck_rev_a
+name: adafruit_ap3429a_pcb
+projects_flat: projects/adafruit_adafruit_ap3429a_pcb_ap3429_3_3_buck_rev_a/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-AP3429A-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/contributors
+  created_at: '2020-09-02T16:38:50Z'
+  default_branch: main
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/deployments
+  description: PCB files for the Adafruit AP3429A Buck Converter Breakout
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/events
+  fork: false
+  forks: 1
+  forks_count: 1
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/forks
+  full_name: adafruit/Adafruit-AP3429A-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-AP3429A-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: true
+  homepage: ''
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-AP3429A-PCB
+  id: 292338126
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-AP3429A-PCB
+  node_id: MDEwOlJlcG9zaXRvcnkyOTIzMzgxMjY=
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/pulls{/number}
+  pushed_at: '2020-09-02T17:06:41Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/releases{/id}
+  size: 508
+  ssh_url: git@github.com:adafruit/Adafruit-AP3429A-PCB.git
+  stargazers_count: 0
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-AP3429A-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB/git/trees{/sha}
+  updated_at: '2020-09-07T20:38:48Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-AP3429A-PCB
+  visibility: public
+  watchers: 0
+  watchers_count: 0
+  web_commit_signoff_required: false
+src_file_brd: AP3429 3.3 Buck rev A.brd
+src_file_brd_github: https://github.com/adafruit/Adafruit-AP3429A-PCB.git/AP3429 3.3
+  Buck rev A.brd
+src_file_sch: AP3429 3.3 Buck rev A.sch
+src_file_sch_github: https://github.com/adafruit/Adafruit-AP3429A-PCB.git/AP3429 3.3
+  Buck rev A.sch
+user: adafruit

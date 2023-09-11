@@ -1,0 +1,241 @@
+board: joystick
+bom:
+- Id: '1'
+  Designator: '@HOLE2,@HOLE1,@HOLE3,@HOLE0'
+  Footprint: ''
+  Quantity: '4'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: JP1
+  Footprint: 1X05
+  Quantity: '1'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: U1
+  Footprint: JOYSTICK
+  Quantity: '1'
+  Designation: JOYSTICKPTH
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '4'
+  Designator: U$1
+  Footprint: ADAFRUIT200MIL
+  Quantity: '1'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | @HOLE2,@HOLE1,@HOLE3,@HOLE0\
+  \ |  | 4 |  |  |  | [''] | \n| 2 | JP1 | 1X05 | 1 |  |  |  | [''] | \n| 3 | U1 |\
+  \ JOYSTICK | 1 | JOYSTICKPTH |  |  | [''] | \n| 4 | U$1 | ADAFRUIT200MIL | 1 | \
+  \ |  |  | [''] | \n"
+bom_schematic:
+- Cmp name: PINHD-1X5
+  DNP: ''
+  Description: ''
+  Footprint: working:1X05
+  Qnty: '1'
+  Ref: JP1
+  Value: PINHD-1X5
+  Vendor: ''
+- Cmp name: JOYSTICKPTH
+  DNP: ''
+  Description: ''
+  Footprint: working:JOYSTICK
+  Qnty: '1'
+  Ref: U1
+  Value: JOYSTICKPTH
+  Vendor: ''
+bom_schematic_markdown: "| Ref | Qnty | Value | Cmp name | Footprint | Description\
+  \ | Vendor | DNP | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| JP1 |\
+  \ 1 | PINHD-1X5 | PINHD-1X5 | working:1X05 |  |  |  | \n| U1 | 1 | JOYSTICKPTH |\
+  \ JOYSTICKPTH | working:JOYSTICK |  |  |  | \n"
+counter: 1
+file_brd_flat: projects/adafruit_2_axis_joystick_breakout_board_with_mounting_holes_joystick/current_version/working/working.brd
+file_sch_flat: projects/adafruit_2_axis_joystick_breakout_board_with_mounting_holes_joystick/current_version/working/working.sch
+id: adafruit_2_axis_joystick_breakout_board_with_mounting_holes_joystick
+name: 2_axis_joystick_breakout_board_with_mounting_holes
+position_bottom: []
+position_bottom_markdown: no data
+position_top:
+- '# Ref': '@HOLE0'
+  Package: .nan
+  PosX: 133.2611
+  PosY: -120.2436
+  Rot: 0.0
+  Side: top
+  Val: .nan
+- '# Ref': '@HOLE1'
+  Package: .nan
+  PosX: 133.2611
+  PosY: -89.7636
+  Rot: 0.0
+  Side: top
+  Val: .nan
+- '# Ref': '@HOLE2'
+  Package: .nan
+  PosX: 163.7411
+  PosY: -89.7636
+  Rot: 0.0
+  Side: top
+  Val: .nan
+- '# Ref': '@HOLE3'
+  Package: .nan
+  PosX: 163.7411
+  PosY: -120.2436
+  Rot: 0.0
+  Side: top
+  Val: .nan
+- '# Ref': JP1
+  Package: 1X05
+  PosX: 148.5011
+  PosY: -121.5136
+  Rot: 180.0
+  Side: top
+  Val: .nan
+- '# Ref': U$1
+  Package: ADAFRUIT200MIL
+  PosX: 132.4991
+  PosY: -113.1316
+  Rot: 0.0
+  Side: top
+  Val: .nan
+- '# Ref': U1
+  Package: JOYSTICK
+  PosX: 148.5011
+  PosY: -105.0036
+  Rot: 0.0
+  Side: top
+  Val: JOYSTICKPTH
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| @HOLE0 | nan | nan | 133.2611 | -120.2436\
+  \ | 0.0 | top | \n| @HOLE1 | nan | nan | 133.2611 | -89.7636 | 0.0 | top | \n| @HOLE2\
+  \ | nan | nan | 163.7411 | -89.7636 | 0.0 | top | \n| @HOLE3 | nan | nan | 163.7411\
+  \ | -120.2436 | 0.0 | top | \n| JP1 | nan | 1X05 | 148.5011 | -121.5136 | 180.0\
+  \ | top | \n| U$1 | nan | ADAFRUIT200MIL | 132.4991 | -113.1316 | 0.0 | top | \n\
+  | U1 | JOYSTICKPTH | JOYSTICK | 148.5011 | -105.0036 | 0.0 | top | \n"
+projects_flat: projects/adafruit_2_axis_joystick_breakout_board_with_mounting_holes_joystick/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/branches{/branch}
+  clone_url: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes.git
+  collaborators_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/contributors
+  created_at: '2011-10-31T17:37:34Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/deployments
+  description: see the name!
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/downloads
+  events_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/events
+  fork: false
+  forks: 10
+  forks_count: 10
+  forks_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/forks
+  full_name: adafruit/2-axis-joystick-breakout-board-with-mounting-holes
+  git_commits_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/git/tags{/sha}
+  git_url: git://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: http://www.adafruit.com/products/512
+  hooks_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/hooks
+  html_url: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes
+  id: 2682352
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/merges
+  milestones_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/milestones{/number}
+  mirror_url: null
+  name: 2-axis-joystick-breakout-board-with-mounting-holes
+  node_id: MDEwOlJlcG9zaXRvcnkyNjgyMzUy
+  notifications_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/pulls{/number}
+  pushed_at: '2019-06-06T19:04:00Z'
+  releases_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/releases{/id}
+  size: 375
+  ssh_url: git@github.com:adafruit/2-axis-joystick-breakout-board-with-mounting-holes.git
+  stargazers_count: 12
+  stargazers_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/subscription
+  svn_url: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes
+  tags_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/tags
+  teams_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes/git/trees{/sha}
+  updated_at: '2022-05-07T01:42:42Z'
+  url: https://api.github.com/repos/adafruit/2-axis-joystick-breakout-board-with-mounting-holes
+  visibility: public
+  watchers: 12
+  watchers_count: 12
+  web_commit_signoff_required: false
+src_file_brd: joystick.brd
+src_file_brd_github: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes.git/joystick.brd
+src_file_sch: joystick.sch
+src_file_sch_github: https://github.com/adafruit/2-axis-joystick-breakout-board-with-mounting-holes.git/joystick.sch
+user: adafruit

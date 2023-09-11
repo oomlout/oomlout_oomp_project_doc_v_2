@@ -1,0 +1,499 @@
+board: adafruit_ar1100
+bom:
+- Id: '1'
+  Designator: FID1,FID3,FID2
+  Footprint: FIDUCIAL_1MM
+  Quantity: '3'
+  Designation: FIDUCIAL"
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '2'
+  Designator: U$6,U$5,U$4,U$2
+  Footprint: MOUNTINGHOLE_2.5_PLATED
+  Quantity: '4'
+  Designation: MOUNTINGHOLE2.5
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '3'
+  Designator: D2,D3
+  Footprint: SOD-323F
+  Quantity: '2'
+  Designation: 1N4148
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '4'
+  Designator: IC1
+  Footprint: TSSOP20-5.3MMBODY
+  Quantity: '1'
+  Designation: AR1100_SSOP
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '5'
+  Designator: C1
+  Footprint: 0805-NO
+  Quantity: '1'
+  Designation: 0.1uF
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '6'
+  Designator: LED1
+  Footprint: CHIPLED_0805_NOOUTLINE
+  Quantity: '1'
+  Designation: RED
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '7'
+  Designator: U$7
+  Footprint: FPC_CONN_1MM_DUAL_4P
+  Quantity: '1'
+  Designation: FPC_4PIN_12969
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '8'
+  Designator: X1
+  Footprint: USB-MINIB
+  Quantity: '1'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '9'
+  Designator: C2,C3
+  Footprint: 0805-NO
+  Quantity: '2'
+  Designation: 10uF
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '10'
+  Designator: CN2,CN1
+  Footprint: 1X04-CLEANBIG
+  Quantity: '2'
+  Designation: 1X4-CLEANBIG
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '11'
+  Designator: U$14
+  Footprint: ADAFRUIT_3.5MM
+  Quantity: '1'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '12'
+  Designator: R2
+  Footprint: 0805-NO
+  Quantity: '1'
+  Designation: 20K
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '13'
+  Designator: R1
+  Footprint: 0805-NO
+  Quantity: '1'
+  Designation: '470'
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '14'
+  Designator: Y1
+  Footprint: RESONATOR-SMD
+  Quantity: '1'
+  Designation: 12MHz
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+- Id: '15'
+  Designator: U$17
+  Footprint: ADAFRUIT_TEXT_20MM
+  Quantity: '1'
+  Designation: ''
+  Supplier and ref: ''
+  ? ''
+  : ''
+  null:
+  - ''
+bom_markdown: "| Id | Designator | Footprint | Quantity | Designation | Supplier and\
+  \ ref |  | None | \n| --- | --- | --- | --- | --- | --- | --- | --- | \n| 1 | FID1,FID3,FID2\
+  \ | FIDUCIAL_1MM | 3 | FIDUCIAL\" |  |  | [''] | \n| 2 | U$6,U$5,U$4,U$2 | MOUNTINGHOLE_2.5_PLATED\
+  \ | 4 | MOUNTINGHOLE2.5 |  |  | [''] | \n| 3 | D2,D3 | SOD-323F | 2 | 1N4148 | \
+  \ |  | [''] | \n| 4 | IC1 | TSSOP20-5.3MMBODY | 1 | AR1100_SSOP |  |  | [''] | \n\
+  | 5 | C1 | 0805-NO | 1 | 0.1uF |  |  | [''] | \n| 6 | LED1 | CHIPLED_0805_NOOUTLINE\
+  \ | 1 | RED |  |  | [''] | \n| 7 | U$7 | FPC_CONN_1MM_DUAL_4P | 1 | FPC_4PIN_12969\
+  \ |  |  | [''] | \n| 8 | X1 | USB-MINIB | 1 |  |  |  | [''] | \n| 9 | C2,C3 | 0805-NO\
+  \ | 2 | 10uF |  |  | [''] | \n| 10 | CN2,CN1 | 1X04-CLEANBIG | 2 | 1X4-CLEANBIG\
+  \ |  |  | [''] | \n| 11 | U$14 | ADAFRUIT_3.5MM | 1 |  |  |  | [''] | \n| 12 | R2\
+  \ | 0805-NO | 1 | 20K |  |  | [''] | \n| 13 | R1 | 0805-NO | 1 | 470 |  |  | ['']\
+  \ | \n| 14 | Y1 | RESONATOR-SMD | 1 | 12MHz |  |  | [''] | \n| 15 | U$17 | ADAFRUIT_TEXT_20MM\
+  \ | 1 |  |  |  | [''] | \n"
+counter: 1
+file_brd_flat: projects/adafruit_adafruit_ar1100_resistive_touch_controller_pcb_adafruit_ar1100/current_version/working/working.brd
+file_sch_flat: projects/adafruit_adafruit_ar1100_resistive_touch_controller_pcb_adafruit_ar1100/current_version/working/working.sch
+id: adafruit_adafruit_ar1100_resistive_touch_controller_pcb_adafruit_ar1100
+mounting_holes:
+- package: MOUNTINGHOLE_2.5_PLATED
+  ref: U$2
+  size: m3
+  value: MOUNTINGHOLE2.5
+  x: '0.0'
+  y: '0.0'
+- package: MOUNTINGHOLE_2.5_PLATED
+  ref: U$4
+  size: m3
+  value: MOUNTINGHOLE2.5
+  x: '0.0'
+  y: '15.239999999999995'
+- package: MOUNTINGHOLE_2.5_PLATED
+  ref: U$5
+  size: m3
+  value: MOUNTINGHOLE2.5
+  x: '22.859999999999985'
+  y: '15.239999999999995'
+- package: MOUNTINGHOLE_2.5_PLATED
+  ref: U$6
+  size: m3
+  value: MOUNTINGHOLE2.5
+  x: '22.859999999999985'
+  y: '0.0'
+mounting_holes_markdown: "| x | y | package | value | ref | size | \n| --- | --- |\
+  \ --- | --- | --- | --- | \n| 0.0 | 0.0 | MOUNTINGHOLE_2.5_PLATED | MOUNTINGHOLE2.5\
+  \ | U$2 | m3 | \n| 0.0 | 15.239999999999995 | MOUNTINGHOLE_2.5_PLATED | MOUNTINGHOLE2.5\
+  \ | U$4 | m3 | \n| 22.859999999999985 | 15.239999999999995 | MOUNTINGHOLE_2.5_PLATED\
+  \ | MOUNTINGHOLE2.5 | U$5 | m3 | \n| 22.859999999999985 | 0.0 | MOUNTINGHOLE_2.5_PLATED\
+  \ | MOUNTINGHOLE2.5 | U$6 | m3 | \n"
+name: adafruit_ar1100_resistive_touch_controller_pcb
+position_bottom:
+- '# Ref': U$17
+  Package: ADAFRUIT_TEXT_20MM
+  PosX: 161.3281
+  PosY: -111.9886
+  Rot: 180.0
+  Side: bottom
+  Val: .nan
+position_bottom_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n\
+  | --- | --- | --- | --- | --- | --- | --- | \n| U$17 | nan | ADAFRUIT_TEXT_20MM\
+  \ | 161.3281 | -111.9886 | 180.0 | bottom | \n"
+position_top:
+- '# Ref': C1
+  Package: 0805-NO
+  PosX: 145.3261
+  PosY: -108.5596
+  Rot: 90.0
+  Side: top
+  Val: 0.1uF
+- '# Ref': C2
+  Package: 0805-NO
+  PosX: 154.2161
+  PosY: -110.2106
+  Rot: 0.0
+  Side: top
+  Val: 10uF
+- '# Ref': C3
+  Package: 0805-NO
+  PosX: 148.2471
+  PosY: -107.4166
+  Rot: 180.0
+  Side: top
+  Val: 10uF
+- '# Ref': CN1
+  Package: 1X04-CLEANBIG
+  PosX: 148.5011
+  PosY: -113.8936
+  Rot: 180.0
+  Side: top
+  Val: 1X4-CLEANBIG
+- '# Ref': CN2
+  Package: 1X04-CLEANBIG
+  PosX: 148.5011
+  PosY: -96.1136
+  Rot: 180.0
+  Side: top
+  Val: 1X4-CLEANBIG
+- '# Ref': D2
+  Package: SOD-323F
+  PosX: 148.7551
+  PosY: -109.5756
+  Rot: 0.0
+  Side: top
+  Val: 1N4148
+- '# Ref': D3
+  Package: SOD-323F
+  PosX: 151.4221
+  PosY: -108.1786
+  Rot: -90.0
+  Side: top
+  Val: 1N4148
+- '# Ref': FID1
+  Package: FIDUCIAL_1MM
+  PosX: 156.7561
+  PosY: -96.2406
+  Rot: 0.0
+  Side: top
+  Val: FIDUCIAL""
+- '# Ref': FID2
+  Package: FIDUCIAL_1MM
+  PosX: 140.2461
+  PosY: -113.7666
+  Rot: 0.0
+  Side: top
+  Val: FIDUCIAL""
+- '# Ref': FID3
+  Package: FIDUCIAL_1MM
+  PosX: 140.3731
+  PosY: -96.2406
+  Rot: 0.0
+  Side: top
+  Val: FIDUCIAL""
+- '# Ref': IC1
+  Package: TSSOP20-5.3MMBODY
+  PosX: 149.6441
+  PosY: -102.8446
+  Rot: 90.0
+  Side: top
+  Val: AR1100_SSOP
+- '# Ref': LED1
+  Package: CHIPLED_0805_NOOUTLINE
+  PosX: 156.7561
+  PosY: -99.5426
+  Rot: 0.0
+  Side: top
+  Val: RED
+- '# Ref': R1
+  Package: 0805-NO
+  PosX: 155.1051
+  PosY: -99.5426
+  Rot: 90.0
+  Side: top
+  Val: '470'
+- '# Ref': R2
+  Package: 0805-NO
+  PosX: 141.5161
+  PosY: -98.2726
+  Rot: 180.0
+  Side: top
+  Val: 20K
+- '# Ref': U$2
+  Package: MOUNTINGHOLE_2.5_PLATED
+  PosX: 137.0711
+  PosY: -112.6236
+  Rot: 0.0
+  Side: top
+  Val: MOUNTINGHOLE2.5
+- '# Ref': U$4
+  Package: MOUNTINGHOLE_2.5_PLATED
+  PosX: 137.0711
+  PosY: -97.3836
+  Rot: 0.0
+  Side: top
+  Val: MOUNTINGHOLE2.5
+- '# Ref': U$5
+  Package: MOUNTINGHOLE_2.5_PLATED
+  PosX: 159.9311
+  PosY: -97.3836
+  Rot: 0.0
+  Side: top
+  Val: MOUNTINGHOLE2.5
+- '# Ref': U$6
+  Package: MOUNTINGHOLE_2.5_PLATED
+  PosX: 159.9311
+  PosY: -112.6236
+  Rot: 0.0
+  Side: top
+  Val: MOUNTINGHOLE2.5
+- '# Ref': U$7
+  Package: FPC_CONN_1MM_DUAL_4P
+  PosX: 157.8991
+  PosY: -104.4956
+  Rot: 90.0
+  Side: top
+  Val: FPC_4PIN_12969
+- '# Ref': U$14
+  Package: ADAFRUIT_3.5MM
+  PosX: 157.5181
+  PosY: -114.5286
+  Rot: 90.0
+  Side: top
+  Val: .nan
+- '# Ref': X1
+  Package: USB-MINIB
+  PosX: 139.1031
+  PosY: -105.0036
+  Rot: -90.0
+  Side: top
+  Val: .nan
+- '# Ref': Y1
+  Package: RESONATOR-SMD
+  PosX: 154.7876
+  PosY: -107.9246
+  Rot: 0.0
+  Side: top
+  Val: 12MHz
+position_top_markdown: "| # Ref | Val | Package | PosX | PosY | Rot | Side | \n| ---\
+  \ | --- | --- | --- | --- | --- | --- | \n| C1 | 0.1uF | 0805-NO | 145.3261 | -108.5596\
+  \ | 90.0 | top | \n| C2 | 10uF | 0805-NO | 154.2161 | -110.2106 | 0.0 | top | \n\
+  | C3 | 10uF | 0805-NO | 148.2471 | -107.4166 | 180.0 | top | \n| CN1 | 1X4-CLEANBIG\
+  \ | 1X04-CLEANBIG | 148.5011 | -113.8936 | 180.0 | top | \n| CN2 | 1X4-CLEANBIG\
+  \ | 1X04-CLEANBIG | 148.5011 | -96.1136 | 180.0 | top | \n| D2 | 1N4148 | SOD-323F\
+  \ | 148.7551 | -109.5756 | 0.0 | top | \n| D3 | 1N4148 | SOD-323F | 151.4221 | -108.1786\
+  \ | -90.0 | top | \n| FID1 | FIDUCIAL\"\" | FIDUCIAL_1MM | 156.7561 | -96.2406 |\
+  \ 0.0 | top | \n| FID2 | FIDUCIAL\"\" | FIDUCIAL_1MM | 140.2461 | -113.7666 | 0.0\
+  \ | top | \n| FID3 | FIDUCIAL\"\" | FIDUCIAL_1MM | 140.3731 | -96.2406 | 0.0 | top\
+  \ | \n| IC1 | AR1100_SSOP | TSSOP20-5.3MMBODY | 149.6441 | -102.8446 | 90.0 | top\
+  \ | \n| LED1 | RED | CHIPLED_0805_NOOUTLINE | 156.7561 | -99.5426 | 0.0 | top |\
+  \ \n| R1 | 470 | 0805-NO | 155.1051 | -99.5426 | 90.0 | top | \n| R2 | 20K | 0805-NO\
+  \ | 141.5161 | -98.2726 | 180.0 | top | \n| U$2 | MOUNTINGHOLE2.5 | MOUNTINGHOLE_2.5_PLATED\
+  \ | 137.0711 | -112.6236 | 0.0 | top | \n| U$4 | MOUNTINGHOLE2.5 | MOUNTINGHOLE_2.5_PLATED\
+  \ | 137.0711 | -97.3836 | 0.0 | top | \n| U$5 | MOUNTINGHOLE2.5 | MOUNTINGHOLE_2.5_PLATED\
+  \ | 159.9311 | -97.3836 | 0.0 | top | \n| U$6 | MOUNTINGHOLE2.5 | MOUNTINGHOLE_2.5_PLATED\
+  \ | 159.9311 | -112.6236 | 0.0 | top | \n| U$7 | FPC_4PIN_12969 | FPC_CONN_1MM_DUAL_4P\
+  \ | 157.8991 | -104.4956 | 90.0 | top | \n| U$14 | nan | ADAFRUIT_3.5MM | 157.5181\
+  \ | -114.5286 | 90.0 | top | \n| X1 | nan | USB-MINIB | 139.1031 | -105.0036 | -90.0\
+  \ | top | \n| Y1 | 12MHz | RESONATOR-SMD | 154.7876 | -107.9246 | 0.0 | top | \n"
+projects_flat: projects/adafruit_adafruit_ar1100_resistive_touch_controller_pcb_adafruit_ar1100/current_version/working
+repo:
+  allow_forking: true
+  archive_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/{archive_format}{/ref}
+  archived: false
+  assignees_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/assignees{/user}
+  blobs_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/git/blobs{/sha}
+  branches_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/branches{/branch}
+  clone_url: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git
+  collaborators_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/collaborators{/collaborator}
+  comments_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/comments{/number}
+  commits_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/commits{/sha}
+  compare_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/compare/{base}...{head}
+  contents_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/contents/{+path}
+  contributors_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/contributors
+  created_at: '2016-09-21T17:18:20Z'
+  default_branch: master
+  deployments_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/deployments
+  description: PCB files for the Adafruit AR1100 Resistive Touch Controller
+  disabled: false
+  downloads_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/downloads
+  events_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/events
+  fork: false
+  forks: 0
+  forks_count: 0
+  forks_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/forks
+  full_name: adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+  git_commits_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/git/commits{/sha}
+  git_refs_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/git/refs{/sha}
+  git_tags_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/git/tags{/sha}
+  git_url: git://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git
+  has_discussions: false
+  has_downloads: true
+  has_issues: true
+  has_pages: false
+  has_projects: true
+  has_wiki: false
+  homepage: null
+  hooks_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/hooks
+  html_url: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+  id: 68840488
+  is_template: false
+  issue_comment_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/issues/comments{/number}
+  issue_events_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/issues/events{/number}
+  issues_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/issues{/number}
+  keys_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/keys{/key_id}
+  labels_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/labels{/name}
+  language: null
+  languages_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/languages
+  license:
+    key: other
+    name: Other
+    node_id: MDc6TGljZW5zZTA=
+    spdx_id: NOASSERTION
+    url: null
+  merges_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/merges
+  milestones_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/milestones{/number}
+  mirror_url: null
+  name: Adafruit-AR1100-Resistive-Touch-Controller-PCB
+  node_id: MDEwOlJlcG9zaXRvcnk2ODg0MDQ4OA==
+  notifications_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/notifications{?since,all,participating}
+  open_issues: 0
+  open_issues_count: 0
+  owner:
+    avatar_url: https://avatars.githubusercontent.com/u/181069?v=4
+    events_url: https://api.github.com/users/adafruit/events{/privacy}
+    followers_url: https://api.github.com/users/adafruit/followers
+    following_url: https://api.github.com/users/adafruit/following{/other_user}
+    gists_url: https://api.github.com/users/adafruit/gists{/gist_id}
+    gravatar_id: ''
+    html_url: https://github.com/adafruit
+    id: 181069
+    login: adafruit
+    node_id: MDEyOk9yZ2FuaXphdGlvbjE4MTA2OQ==
+    organizations_url: https://api.github.com/users/adafruit/orgs
+    received_events_url: https://api.github.com/users/adafruit/received_events
+    repos_url: https://api.github.com/users/adafruit/repos
+    site_admin: false
+    starred_url: https://api.github.com/users/adafruit/starred{/owner}{/repo}
+    subscriptions_url: https://api.github.com/users/adafruit/subscriptions
+    type: Organization
+    url: https://api.github.com/users/adafruit
+  private: false
+  pulls_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/pulls{/number}
+  pushed_at: '2019-05-22T20:59:48Z'
+  releases_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/releases{/id}
+  size: 435
+  ssh_url: git@github.com:adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git
+  stargazers_count: 2
+  stargazers_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/stargazers
+  statuses_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/statuses/{sha}
+  subscribers_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/subscribers
+  subscription_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/subscription
+  svn_url: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+  tags_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/tags
+  teams_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/teams
+  topics: []
+  trees_url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB/git/trees{/sha}
+  updated_at: '2022-01-25T16:37:50Z'
+  url: https://api.github.com/repos/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB
+  visibility: public
+  watchers: 2
+  watchers_count: 2
+  web_commit_signoff_required: false
+src_file_brd: Adafruit AR1100.brd
+src_file_brd_github: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git/Adafruit
+  AR1100.brd
+src_file_sch: Adafruit AR1100.sch
+src_file_sch_github: https://github.com/adafruit/Adafruit-AR1100-Resistive-Touch-Controller-PCB.git/Adafruit
+  AR1100.sch
+user: adafruit
