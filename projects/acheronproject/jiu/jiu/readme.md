@@ -12,7 +12,9 @@
 * src_file_repo_kicad_sch_link: https://github.com/AcheronProject/Jiu/tree/master/pcb_kicad_files/jiu.kicad_sch
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/AcheronProject/Jiu/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/Jiu/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_jiu_jiu/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

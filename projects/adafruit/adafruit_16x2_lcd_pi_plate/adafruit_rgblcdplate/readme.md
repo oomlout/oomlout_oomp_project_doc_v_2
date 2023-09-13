@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-16x2-LCD-Pi-Plate/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_16x2_lcd_pi_plate_adafruit_rgblcdplate/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

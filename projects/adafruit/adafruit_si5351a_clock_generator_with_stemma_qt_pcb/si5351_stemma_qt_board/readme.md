@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-Si5351A-Clock-Generator-with-STEMMA-QT-PCB/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_si5351a_clock_generator_with_stemma_qt_pcb_si5351_stemma_qt_board/current_version/working  
 
 
 

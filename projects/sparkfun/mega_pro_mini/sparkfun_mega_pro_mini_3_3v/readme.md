@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/sparkfun/Mega_Pro_Mini/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/sparkfun/Mega_Pro_Mini/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/sparkfun_mega_pro_mini_sparkfun_mega_pro_mini_3_3v/current_version/working  
 
 
 

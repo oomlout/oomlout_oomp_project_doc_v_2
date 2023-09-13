@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-SHT40-PCB/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-SHT40-PCB/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_sht40_pcb_adafruit_sht41/current_version/working  
 
 
 

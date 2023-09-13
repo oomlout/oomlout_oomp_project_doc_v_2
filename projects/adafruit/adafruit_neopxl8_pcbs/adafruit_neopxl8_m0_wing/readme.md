@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-NeoPXL8-PCBs/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-NeoPXL8-PCBs/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_neopxl8_pcbs_adafruit_neopxl8_m0_wing/current_version/working  
 
 
 

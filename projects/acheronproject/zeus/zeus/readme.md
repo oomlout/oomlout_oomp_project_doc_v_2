@@ -11,7 +11,9 @@
 
 
 * src_file_repo_sch: kicadFiles/zeus.sch
-* src_file_repo_sch_link: https://github.com/AcheronProject/Zeus/tree/master/kicadFiles/zeus.sch
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/Zeus/tree/master/kicadFiles/zeus.sch
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_zeus_zeus/current_version/working  
 
 
 ## pcb  

@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-NeoTrellis-M4-PCB-and-Enclosure/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_neotrellis_m4_pcb_and_enclosure_adafruit_neotrellis_m4/current_version/working  
 
 
 

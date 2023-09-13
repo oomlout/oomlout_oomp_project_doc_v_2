@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-UDA1334A-I2S-Stereo-DAC-PCB/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_uda1334a_i2s_stereo_dac_pcb_adafruit_uda1334_i2s_dac/current_version/working  
 
 
 

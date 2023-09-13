@@ -12,7 +12,9 @@
 * src_file_repo_kicad_sch_link: https://github.com/AcheronProject/Anubis/tree/main/kicad_files/anubis.kicad_sch
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/AcheronProject/Anubis/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/Anubis/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_anubis_anubis/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

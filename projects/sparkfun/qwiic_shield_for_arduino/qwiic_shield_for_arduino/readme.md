@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/sparkfun/Qwiic_Shield_for_Arduino/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/sparkfun/Qwiic_Shield_for_Arduino/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/sparkfun_qwiic_shield_for_arduino_qwiic_shield_for_arduino/current_version/working  
 
 
 

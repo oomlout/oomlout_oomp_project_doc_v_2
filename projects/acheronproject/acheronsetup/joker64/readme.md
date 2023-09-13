@@ -12,7 +12,9 @@
 * src_file_repo_kicad_sch_link: https://github.com/AcheronProject/AcheronSetup/tree/main/keyboard_creator/joker64_template/joker64.kicad_sch
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/AcheronProject/AcheronSetup/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/AcheronSetup/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_acheronsetup_joker64/current_version/working  
 
 
 ## pcb  

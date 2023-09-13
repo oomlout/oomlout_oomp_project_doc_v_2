@@ -12,7 +12,9 @@
 * src_file_repo_kicad_sch_link: https://github.com/AcheronProject/Apollo87H/tree/main/kicad_files/apollo87h.kicad_sch
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/AcheronProject/Apollo87H/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/Apollo87H/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_apollo87h_apollo87h/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

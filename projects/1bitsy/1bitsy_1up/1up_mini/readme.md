@@ -11,7 +11,9 @@
 
 
 * src_file_repo_sch: hardware/contrib/1up-mini/1up-mini.sch
-* src_file_repo_sch_link: https://github.com/1Bitsy/1bitsy-1up/tree/master/hardware/contrib/1up-mini/1up-mini.sch
+*
+ src_file_repo_sch_link: https://github.com/1Bitsy/1bitsy-1up/tree/master/hardware/contrib/1up-mini/1up-mini.sch
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/1bitsy_1bitsy_1up_1up_mini/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

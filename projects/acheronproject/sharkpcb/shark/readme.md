@@ -12,7 +12,9 @@
 * src_file_repo_kicad_sch_link: https://github.com/AcheronProject/SharkPCB/tree/main/kicad_files/shark.kicad_sch
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/AcheronProject/SharkPCB/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/AcheronProject/SharkPCB/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/acheronproject_sharkpcb_shark/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

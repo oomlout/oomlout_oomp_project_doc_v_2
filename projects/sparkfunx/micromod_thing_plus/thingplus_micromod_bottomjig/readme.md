@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/sparkfunX/MicroMod_Thing_Plus/tree/main/
+*
+ src_file_repo_sch_link: https://github.com/sparkfunX/MicroMod_Thing_Plus/tree/main/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/sparkfunx_micromod_thing_plus_thingplus_micromod_bottomjig/current_version/working  
 
 
 

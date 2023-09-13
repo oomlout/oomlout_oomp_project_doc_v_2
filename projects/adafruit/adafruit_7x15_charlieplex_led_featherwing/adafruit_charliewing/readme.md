@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-7x15-CharliePlex-LED-FeatherWing/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_7x15_charlieplex_led_featherwing_adafruit_charliewing/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

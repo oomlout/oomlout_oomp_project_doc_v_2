@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-nRF52-Bluefruit-Feather-PCB/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_nrf52_bluefruit_feather_pcb_adafruit_nrf52_bluefruit_feather_rev_g/current_version/working  
 
 
 

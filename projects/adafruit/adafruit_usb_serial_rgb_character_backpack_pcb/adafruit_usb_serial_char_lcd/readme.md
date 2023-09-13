@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/adafruit/Adafruit-USB-Serial-RGB-Character-Backpack-PCB/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/adafruit_adafruit_usb_serial_rgb_character_backpack_pcb_adafruit_usb_serial_char_lcd/current_version/working  
 
 
 

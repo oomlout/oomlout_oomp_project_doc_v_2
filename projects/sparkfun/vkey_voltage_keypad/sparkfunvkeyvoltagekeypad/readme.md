@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/sparkfun/VKey_Voltage_Keypad/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/sparkfun/VKey_Voltage_Keypad/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/sparkfun_vkey_voltage_keypad_sparkfunvkeyvoltagekeypad/current_version/working  
 
 
 

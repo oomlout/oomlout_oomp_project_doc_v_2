@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/8BitMixtape/NextLevelEdition/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/8BitMixtape/NextLevelEdition/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/8bitmixtape_nextleveledition_mixtape/current_version/working  
 
 ## schematic  
 ![](working_schematic_600.png)  

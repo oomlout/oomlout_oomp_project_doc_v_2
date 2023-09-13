@@ -10,7 +10,9 @@
 
 
 * src_file_repo_sch: 
-* src_file_repo_sch_link: https://github.com/sparkfun/RFID_Reader_Breakout/tree/master/
+*
+ src_file_repo_sch_link: https://github.com/sparkfun/RFID_Reader_Breakout/tree/master/
+* full details link: https://github.com/oomlout/oomlout_oomp_project_bot_v_2/tree/main/projects/sparkfun_rfid_reader_breakout_rfid_breakout/current_version/working  
 
 
 
