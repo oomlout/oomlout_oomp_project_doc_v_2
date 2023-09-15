@@ -56,7 +56,7 @@
 ## mounting_holes
 | x | y | package | value | ref | size | 
 | --- | --- | --- | --- | --- | --- | 
-| 0.0 | 0.8599999999999994 | RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles | Rotary_Encoder_Switch | RESW1 | m3 | 
+| 0.0 | 0.86 | RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles | Rotary_Encoder_Switch | RESW1 | m3 | 
 | 78.94 | 0.0 | RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles | Rotary_Encoder_Switch | RESW2 | m3 | 
 
 

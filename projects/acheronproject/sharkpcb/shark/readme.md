@@ -116,7 +116,7 @@
 | --- | --- | --- | --- | --- | --- | 
 | 190.0 | 38.0 | shark_3mm_tht_mountinghole | MountingHole | H1 | m3 | 
 | 0.0 | 38.0 | shark_3mm_tht_mountinghole | MountingHole | H2 | m3 | 
-| 94.975 | 18.975 | shark_3mm_tht_mountinghole | MountingHole | H3 | m3 | 
+| 94.97 | 18.98 | shark_3mm_tht_mountinghole | MountingHole | H3 | m3 | 
 | 0.0 | 0.0 | shark_3mm_tht_mountinghole | MountingHole | H4 | m3 | 
 | 190.0 | 0.0 | shark_3mm_tht_mountinghole | MountingHole | H5 | m3 | 
 

@@ -64,8 +64,8 @@ no data
 ## mounting_holes
 | x | y | package | value | ref | size | 
 | --- | --- | --- | --- | --- | --- | 
-| 45.719999999999985 | 0.0 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J3 | m3 | 
-| 45.719999999999985 | 17.78 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J4 | m3 | 
+| 45.72 | 0.0 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J3 | m3 | 
+| 45.72 | 17.78 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J4 | m3 | 
 | 0.0 | 0.0 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J5 | m3 | 
 | 0.0 | 17.78 | MountingHole_2.7mm_M2.5 | CONN_01X01 | J6 | m3 | 
 
